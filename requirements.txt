@@ -1,1 +1,1 @@
-requests==0.13.9
+GuildWars2-API-Client==0.5.7
