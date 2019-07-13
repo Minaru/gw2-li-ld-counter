@@ -1,0 +1,7 @@
+{
+    "output_file": "lild.txt",
+    "api_keys": [
+        "an_api_key",
+        "another_api_key"
+    ]
+}
